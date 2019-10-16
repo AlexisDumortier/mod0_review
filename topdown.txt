@@ -1,0 +1,32 @@
+Doing Laundry
+
+1. Gather clothes for laundry
+  1.1 walk to the laundry basket
+  1.2 sort the clothes
+    1.2.1 make a stack with light colors clothes
+    1.2.2 separate delicate from normal clothes
+    1.2.3 count delicate clothes
+    1.2.3 prepare delicate clothes
+      1.2.3.1 walk to the cabinet
+      1.2.3.2 take out correct number of nets
+      1.2.3.3 place each delicate cloth in a net
+2. Put clothes in the washing machine
+  2.1 Open the door of the washing machine
+  2.2 Place the normal clothes in the drum
+  2.3 Place the delicate clothes in the drum
+  2.4 Close the washing machine
+3. Adding detergent
+  3.1 Grab the jar of detergent
+  3.2 Open the jar of detergent
+  3.3 Measure a unit volume of detergent
+  3.4 Open the detergent compartment
+  3.5 Pour the detergent
+  3.6 Close the detergent compartment
+4. Adding softener
+  4.1 Grab the jar of softener
+  4.2 Open the jar of softener
+  4.3 Measure a unit volume of softener
+  4.4 Open the softener compartment
+  4.5 Pour the detergent
+  4.6 Close the detergent compartment
+4. Launching the clean program
