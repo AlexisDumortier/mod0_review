@@ -1,15 +1,15 @@
 Doing Laundry
 
 1. Gather clothes for laundry
-  1.1 walk to the laundry basket
-  1.2 sort the clothes
+  1.1 Walk to the laundry basket
+  1.2 Sort the clothes
     1.2.1 make a stack with light colors clothes
     1.2.2 separate delicate from normal clothes
     1.2.3 count delicate clothes
-    1.2.3 prepare delicate clothes
-      1.2.3.1 walk to the cabinet
-      1.2.3.2 take out correct number of nets
-      1.2.3.3 place each delicate cloth in a net
+    1.2.4 prepare delicate clothes
+      1.2.4.1 walk to the cabinet
+      1.2.4.2 take out correct number of nets
+      1.2.4.3 place each delicate cloth in a net
 2. Put clothes in the washing machine
   2.1 Open the door of the washing machine
   2.2 Place the normal clothes in the drum
